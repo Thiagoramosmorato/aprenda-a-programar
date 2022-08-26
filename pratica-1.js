@@ -1,5 +1,0 @@
-nome = "Thiago"
-email = "thiagoramosmorato@gmail.com"
-profissao = "estudante"
-idade = "15"
-let viagemDosSonhos = "Fernando de Noronha"
