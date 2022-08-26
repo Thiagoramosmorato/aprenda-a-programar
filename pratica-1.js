@@ -1,0 +1,5 @@
+nome  =  "Thiago"
+email  =  "thiagoramosmorato@gmail.com"
+profissao  =  "estudante"
+idade  =  "15"
+deixe  viagemDosSonhos  =  "Fernando de Noronha"
